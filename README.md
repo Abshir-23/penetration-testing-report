@@ -1,6 +1,6 @@
 # Penetration Testing Report
 
-A full web application and infrastructure penetration test, written up as a professional vulnerability assessment report. Course project for ETH2100 Ethical Hacking at Kristiania.
+A full web application and infrastructure penetration test, written up as a professional vulnerability assessment report.
 
 ## Overview
 
